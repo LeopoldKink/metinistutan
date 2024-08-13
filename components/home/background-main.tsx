@@ -21,7 +21,7 @@ export function BackgroundMain(): React.JSX.Element {
   ];
   const rightVideos = [
     "/video/Oswald_Soul Drill_Final.mp4",
-    "/video/MadeIn1Hour.Bu$hiConcert.mp4",
+    "/video/MadeIn1Hour.BushiConcert.mp4",
     "/video/CANT_TRUST_LOWKEY_FINAAL.mp4",
   ];
 
